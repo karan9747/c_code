@@ -1,1 +1,1 @@
-# c_code
+make sure that you presnt both the files (makefile & advanced )

@@ -1,0 +1,26 @@
+# Display system information
+uname -a
+
+# Print a message to standard output
+echo Hello, world!
+
+# List contents of the current directory in detailed format
+ls -l
+
+# List files in the root directory
+ls /
+
+# Attempt to access a non-existent file (to test stderr redirection)
+cat non_existent_file.txt
+
+# Display the date and time
+date
+
+# Show the current working directory
+pwd
+
+# Run a command that requires sudo (will likely cause a permission error if not run with sudo)
+dmesg
+
+# Display the logged-in users
+who
